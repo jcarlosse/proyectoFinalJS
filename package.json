@@ -1,0 +1,16 @@
+{
+  "name": "proyectofinal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ProyectoFinal.js",
+  "scripts": {
+    "test": "jest proyectoFinal.test.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+
+  "author": "Juan Carlos Suárez",
+  "license": "ISC"
+}
